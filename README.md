@@ -2,11 +2,7 @@
 
 This is only a test.
 
-Test more.
-
-test test
-
-MOAR!
+test for linking
 
 blah blah
 
