@@ -1,0 +1,6 @@
+labels:
+  - label: i18n
+    on:
+      files:
+        - config/locales/.*
+ 
