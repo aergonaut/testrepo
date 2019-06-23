@@ -3,4 +3,7 @@ labels:
     on:
       files:
         - config/locales/.*
- 
+  - label: size/S
+    on:
+      diffSize:
+        lte: 10
